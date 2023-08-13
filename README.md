@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ma22m011@smail.iitm.ac.in**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YgknKwMzfxCVxabzvN-CVccjoMRvdJBU/edit?usp=sharing&ouid=102553783743892960677&rtpof=true&sd=true](https://docs.google.com/document/d/1YgknKwMzfxCVxabzvN-CVccjoMRvdJBU/edit?usp=sharing&ouid=102553783743892960677&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1YgknKwMzfxCVxabzvN-CVccjoMRvdJBU/edit?usp=sharing&ouid=102553783743892960677&rtpof=true&sd=true](Nitish_Kumar_Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
