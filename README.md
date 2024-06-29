@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamheavymetalx7&label=Profile%20views&color=0e75b6&style=flat" alt="iamheavymetalx7" /> </p>
 
-- 🌱 I’m currently learning **Django-REST Framework**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://nitishkumar.pythonanywhere.com/](https://nitishkumar.pythonanywhere.com/)
 
