@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamheavymetalx7&label=Profile%20views&color=0e75b6&style=flat" alt="iamheavymetalx7" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS & React JS**
 
 - 👨‍💻 All of my projects are available at [https://nitishkumar.pythonanywhere.com/](https://nitishkumar.pythonanywhere.com/)
 
-- 💬 Ask me about **Django, Python, Data Structures and Algorithms**
+- 💬 Ask me about **C++, Python, Data Structures and Algorithms**
 
-- 📫 How to reach me **ma22m011@smail.iitm.ac.in**
-
-- 📄 Know about my experiences [Nitish_Kumar_Resume](https://docs.google.com/document/d/1YgknKwMzfxCVxabzvN-CVccjoMRvdJBU/edit?usp=sharing&ouid=102553783743892960677&rtpof=true&sd=true)
+- 📫 How to reach me **ma22m011@smail.iitm.ac.in or ma22m011.iitm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
